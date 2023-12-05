@@ -1,0 +1,4 @@
+*.cpp
+/output
+__pycache__/
+.vscode/
